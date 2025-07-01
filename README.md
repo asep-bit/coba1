@@ -157,7 +157,7 @@
                     <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/9a4c1e24-3d02-4c35-a2ac-f102b31ab330.png" alt="Cross section of chocolate croissant showing flaky layers with melted chocolate" class="w-full h-full object-cover">
                 </div>
                 <div class="p-6">
-                    <h3 class="text-xl font-semibold mb-2">Chocolate Croissant</h3>
+                    <h3 class="text-xl font-semibold mb-2">Chocolate </h3>
                     <p class="text-gray-600 mb-4">Buttery, flaky pastry with rich dark chocolate filling</p>
                     <div class="flex justify-between items-center">
                         <span class="text-xl font-bold text-amber-800">$4.00</span>
