@@ -53,7 +53,7 @@
     <div class="container mx-auto px-4 py-12">
         <!-- Header -->
         <div class="text-center mb-12">
-            <h1 class="text-4xl md:text-5xl font-bold text-[#6F4E37] mb-4">Artisan Coffee <span class="text-amber-800">Menu</span></h1>
+            <h1 class="text-4xl md:text-5xl font-bold text-[#6F4E37] mb-4">Teraz<span class="text-amber-800">Menu</span></h1>
             <p class="text-lg text-gray-600 max-w-2xl mx-auto">Handcrafted beverages and freshly prepared food made with premium ingredients</p>
         </div>
         
